@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  background-color: blue;
+  height: 72px;
+}
+
+.word {
+  text-align: center;
+  font-family: "Gill Sans Extrabold", sans-serif;
+  font-weight: bolder;
+  padding: -50px;
+}
+
+.box1 {
+  background-color: solid whitesmoke;
+  height: 545px;
+}
+
+.form {
+  padding: 10px;
+  text-align: right;
+}
+
+.loginarea {
+  padding: 150px;
+}
+
+.submitter {
+  color: blueviolet;
+  background-color: deepskyblue;
+  border-radius: 6px;
+  border-color: black;
+}
+
+.submitter:hover {
+  background-color: whitesmoke;
+  color: red;
+}
+
+.boxarea {
+  background-color: blue;
+  width: 180px;
+}
+
+.login {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.footer {
+  padding: -80px;
+  text-align: center;
+  background-color: blue;
+  font-family: "Gill Sans Extrabold", sans-serif;
+  font-weight: bolder;
+}
+
+.register {
+  text-align: right;
+}
+
+p {
+  background-color: black;
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.border {
+  border: 2px solid red;
+}
